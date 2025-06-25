@@ -1,0 +1,8 @@
+face-attendance/
+├── attendance.py
+├── images/
+│   ├── prachi.jpg
+│   └── arya.jpg
+├── Attendance.csv
+├── requirements.txt
+└── README.md
